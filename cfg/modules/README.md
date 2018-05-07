@@ -4,10 +4,10 @@ The goal is to let you add and remove the modules you want.
 
 Available modules:
 
-* [Key modifiers](www.github.com/reed-tf2/key-modifiers/)
-* [Weapon settings](www.github.com/reed-tf2/weapon-settings/)
-* [Quick loadout switch](www.github.com/reed-tf2/loadout-switch/)
-* [Quick class switch](www.github.com/reed-tf2/class-switch/)
+* [Quick loadout switch](https://github.com/reed-tf2/quick-loadout-switch)
+* Key modifiers
+* Weapon settings
+* Quick class switch
 
 ## Working with modules
 
