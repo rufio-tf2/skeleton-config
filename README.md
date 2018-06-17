@@ -248,7 +248,7 @@ If the link doesn't work, click the green "Clone or download" button on the top 
 <img src="https://i.imgur.com/OX9A0dt.png" width="50%" height="50%" alt="Download ZIP">
 
 1.  Unzip my config to its own folder.
-1.  Rename the config folder from `skeleton-config-master` to `reed-config`. (`master` is the [branch](https://guides.github.com/introduction/flow/))
+1.  Rename the config folder from `skeleton-config-master` to `skeleton-config`. (`master` is the [branch](https://guides.github.com/introduction/flow/))
 
 ## Install
 
@@ -266,18 +266,18 @@ You can also:
 1.  Click the "Browse Local Files..." button
 1.  Open the `tf` folder
 
-### 1. Back up your `cfg`
+### 1. Back up your current settings
 
-I recommend [making a backup](./BACKUP.md) of your current `cfg` folder in case you want to revert to your current setup. Also, remove any other configs you've got in place. You can even back up your whole `tf` folder if you want, it isn't that large.
+I recommend [making a backup](./BACKUP.md) of your current settings in case you want to revert to your current setup. Also, remove any other configs you've got in place. You can even back up your whole `tf` folder if you want, it isn't that large.
 
 ### 2. Move config files
 
 To install my files, open the `custom` folder that's inside of the `tf` folder. If `custom` doesn't exist, just create it.
 
 1.  Navigate into `tf/custom/`
-1.  Drop my config into here
+1.  Move `skeleton-config` into here
 
-You should now have my config located at `tf/custom/reed-config`. Restart TF2 and everything should be setup.
+You should now have my config located at `tf/custom/skeleton-config`. Restart TF2 and everything should be setup.
 
 **Note**: If anything is wonky after you install my config, please [create an issue](https://github.com/reed-tf2/skeleton-config/issues).
 
