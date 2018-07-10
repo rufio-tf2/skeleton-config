@@ -1,20 +1,32 @@
 # Skeleton Config
 
-<img src="https://i.imgur.com/d7rCyuN.png" alt="Skeleton Smoking" height="50%" width="50%" />
-
-## Table of Contents
-
-- [What you get](#what-you-get)
-  - [Additional actions](https://github.com/reed-tf2/reed-config/blob/master/cfg/actions.cfg)
-  - [Improved settings](https://github.com/reed-tf2/reed-config/blob/master/cfg/settings.cfg)
-  - [Shift-modifiers](#shift-modifiers-arrow_upper_right)
-  - [Weapon-slot settings](#weapon-slot-settings-arrow_upper_right)
-  - [Quick loadout switch](#quick-loadout-switch-arrow_upper_right)
-  - [Quick class switch](#quick-class-switch-arrow_upper_right)
-- [Download](#download-arrow_double_down)
-- [Install](#install)
-- [Uninstall](#uninstall)
-- [Contributing](#contributing)
+<table>
+  <tr>
+    <td><h2>Table of Contents</h2></td>
+    <td rowspan="2"><img src="https://i.imgur.com/d7rCyuN.png" alt="Skeleton Smoking" height="30%" width="30%" /></td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>
+          <a href="#what-you-get">What you get</a>
+          <ul>
+            <li><a href="https://github.com/reed-tf2/reed-config/blob/master/cfg/actions.cfg">Additional actions</a></li>
+            <li><a href="https://github.com/reed-tf2/reed-config/blob/master/cfg/settings.cfg">Improved settings</a></li>
+            <li><a href="#shift-modifiers-arrow_upper_right">Shift-modifiers</a></li>
+            <li><a href="#weapon-slot-settings-arrow_upper_right">Weapon-slot settings</a></li>
+            <li><a href="#quick-loadout-switch-arrow_upper_right">Quick loadout switch</a></li>
+            <li><a href="#quick-class-switch-arrow_upper_right">Quick class switch</a></li>
+          </ul>
+        </li>
+        <li><a href="#download-arrow_double_down">Download</a></li>
+        <li><a href="#install">Install</a></li>
+        <li><a href="#uninstall">Uninstall</a></li>
+        <li><a href="#contributing">Contributing</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## What you get
 
