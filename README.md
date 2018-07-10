@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td rowspan="2"><img src="https://i.imgur.com/d7rCyuN.png" alt="Skeleton Smoking" height="50%" width="50%" /></td>
-    <td><span>Table of Contents</span></td>
+    <td rowspan="2"><img src="./images/skeleton_smoking.png" alt="Skeleton Smoking" height="50%" width="50%" /></td>
+    <td><h2>Table of Contents</h2></td>
   </tr>
   <tr>
     <td>
