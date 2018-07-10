@@ -1,6 +1,6 @@
 # Skeleton Config
 
-<img src="https://i.imgur.com/d7rCyuN.png" alt="Skeleton Smoking" />
+<img src="https://i.imgur.com/d7rCyuN.png" alt="Skeleton Smoking" height="50%" width="50%" />
 
 ## Table of Contents
 
