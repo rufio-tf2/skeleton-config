@@ -24,7 +24,7 @@ This is not an [FPS config](https://github.com/mastercoms/mastercomfig). This co
   - _[Shift-modifiers](#shift-modifiers-arrow_upper_right):_ <kbd>SHIFT</kbd>+<kbd>MOUSE1</kbd>
   - _[Weapon settings](#weapon-specific-settings-arrow_upper_right)_
   - _[Quick loadout switch](#quick-loadout-switch-arrow_upper_right):_ <kbd>&larr;</kbd><kbd>&uarr;</kbd><kbd>&rarr;</kbd><kbd>&darr;</kbd>
-  - _[Quick class switch](#quick-class-switch-arrow_upper_right):_ <kbd>1</kbd>-<kbd>9</kbd>
+  - _[Quick class switch](#quick-class-switch-arrow_upper_right):_ KEYPAD <kbd>1</kbd>-<kbd>9</kbd>
 
 You should be able to swap in and out different parts of this config and customize the specifics.
 
