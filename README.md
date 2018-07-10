@@ -1,4 +1,6 @@
-# Team Fortress 2 Config
+# Skeleton Config
+
+<img src="https://i.imgur.com/d7rCyuN.png" alt="Skeleton Smoking" />
 
 ## Table of Contents
 
