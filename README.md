@@ -56,7 +56,7 @@ You can define class-specific versions of these modifiers for your customization
 
 For example, on Spy I have <kbd>MOUSE4</kbd> execute the `lastdisguise` command, but on Pyro <kbd>MOUSE4</kbd> does a `detonatorJump`. You can create shift-modified versions of these. I define these class-specific overrides in that class's `key_modifiers.cfg` file.
 
-Here are my class-specific overrides:
+Here are some class-specific overrides I've used:
 
 <details>
   <summary>Engineer</summary>
@@ -120,15 +120,17 @@ Here are my class-specific overrides:
 
 ### Weapon-slot settings ([:arrow_upper_right:](https://github.com/reed-tf2/reed-config/blob/master/cfg/modules/weapon_settings.cfg))
 
-This lets you load settings per weapon slot. For example, you could change the crosshair color for different weapons like [Mr. Slin does](https://github.com/misterslin/CrosshairSwitcher).
+This lets you load settings per weapon slot. For example, you could:
 
-Currently I use it to turn the viewmodel on/off for certain slots.
+- Change the crosshair color for different slots like [Mr. Slin does](https://github.com/misterslin/CrosshairSwitcher)
+- Use it to turn the viewmodel on/off for certain slots
+- Etc.
 
 #### Class-specific weapon-slot settings
 
-By default I turn the viewmodel on for all of the slots, but you can change that for the classes you choose. I define these class-specific slot overrides in that class's `key_modifiers.cfg` file.
+In the previous example, I established base slot-settings for all of the classes. But you can also create class-specific slot overrides. I put those settings in a class's `key_modifiers.cfg` file.
 
-For example, I've previously used these slot settings:
+For example, I've previously used these slot settings for different classes:
 
 <details>
   <summary>Engineer</summary>
