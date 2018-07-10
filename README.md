@@ -2,11 +2,8 @@
 
 <table>
   <tr>
-    <td><h2>Table of Contents</h2></td>
-    <td rowspan="2"><img src="./images/skeleton_smoking.png" alt="Skeleton Smoking" height="400px" width="302px" /></td>
-  </tr>
-  <tr>
     <td>
+      <h2>Table of Contents</h2>
       <ul>
         <li>
           <a href="#what-you-get">What you get</a>
@@ -25,6 +22,7 @@
         <li><a href="#contributing">Contributing</a></li>
       </ul>
     </td>
+    <td><img src="./images/skeleton_smoking.png" alt="Skeleton Smoking" height="400px" width="302px" /></td>
   </tr>
 </table>
 
