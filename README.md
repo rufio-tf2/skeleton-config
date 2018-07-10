@@ -1,10 +1,8 @@
 # Skeleton Config
 
-Introducing...
-
 <table>
   <tr>
-    <td rowspan="2"><img src="./images/skeleton_smoking.png" alt="Skeleton Smoking" height="50%" width="50%" /></td>
+    <td rowspan="2"><img src="./images/skeleton_smoking.png" alt="Skeleton Smoking" height="400px" width="302px" /></td>
     <td><h2>Table of Contents</h2></td>
   </tr>
   <tr>
