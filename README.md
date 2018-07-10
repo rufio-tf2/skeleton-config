@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td><h2>Table of Contents</h2></td>
+    <td><span>Table of Contents</span></td>
     <td rowspan="2"><img src="https://i.imgur.com/d7rCyuN.png" alt="Skeleton Smoking" height="30%" width="30%" /></td>
   </tr>
   <tr>
