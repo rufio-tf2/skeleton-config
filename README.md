@@ -6,7 +6,7 @@
   - [Additional actions](https://github.com/reed-tf2/reed-config/blob/master/cfg/actions.cfg)
   - [Improved settings](https://github.com/reed-tf2/reed-config/blob/master/cfg/settings.cfg)
   - [Shift-modifiers](#shift-modifiers-arrow_upper_right)
-  - [Weapon settings](#weapon-specific-settings-arrow_upper_right)
+  - [Weapon-slot settings](#weapon-slot-settings-arrow_upper_right)
   - [Quick loadout switch](#quick-loadout-switch-arrow_upper_right)
   - [Quick class switch](#quick-class-switch-arrow_upper_right)
 - [Download](#download-arrow_double_down)
@@ -22,7 +22,7 @@ This is not an [FPS config](https://github.com/mastercoms/mastercomfig). This co
 - [Improved settings](https://github.com/reed-tf2/reed-config/blob/master/cfg/settings.cfg) (e.g. interp, fov, and crosshair)
 - [Modules](./cfg/modules/README.md):
   - _[Shift-modifiers](#shift-modifiers-arrow_upper_right):_ <kbd>SHIFT</kbd>+<kbd>MOUSE1</kbd>
-  - _[Weapon settings](#weapon-specific-settings-arrow_upper_right)_
+  - _[Weapon-slot settings](#weapon-slot-settings-arrow_upper_right)_
   - _[Quick loadout switch](#quick-loadout-switch-arrow_upper_right):_ <kbd>&larr;</kbd><kbd>&uarr;</kbd><kbd>&rarr;</kbd><kbd>&darr;</kbd>
   - _[Quick class switch](#quick-class-switch-arrow_upper_right):_ <kbd>KEYPAD 1</kbd>-<kbd>9</kbd>
 
@@ -106,15 +106,17 @@ Here are my class-specific overrides:
   </ul>
 </details>
 
-### Weapon-specific settings ([:arrow_upper_right:](https://github.com/reed-tf2/reed-config/blob/master/cfg/modules/weapon_settings.cfg))
+### Weapon-slot settings ([:arrow_upper_right:](https://github.com/reed-tf2/reed-config/blob/master/cfg/modules/weapon_settings.cfg))
 
 This lets you load settings per weapon slot. For example, you could change the crosshair color for different weapons like [Mr. Slin does](https://github.com/misterslin/CrosshairSwitcher).
 
 Currently I use it to turn the viewmodel on/off for certain slots.
 
-#### Class-specific weapon settings
+#### Class-specific weapon-slot settings
 
-By default I turn the viewmodel on for all of the slots, but I change that with some classes. I define these class-specific overrides in that class's `key_modifiers.cfg` file.
+By default I turn the viewmodel on for all of the slots, but you can change that for the classes you choose. I define these class-specific slot overrides in that class's `key_modifiers.cfg` file.
+
+For example, I've previously used these slot settings:
 
 <details>
   <summary>Engineer</summary>

@@ -3,7 +3,7 @@
 In the TF2 console, enter:
 
 ```
-host_writeconfig config_backup full
+host_writeconfig backup_full_config full
 ```
 
 Then navigate to TF2's `tf/cfg/` folder, and locate the newly created `config_back.cfg` file. Email the file to yourself, stick it on a thumb drive, etc. The file isn't very big.
