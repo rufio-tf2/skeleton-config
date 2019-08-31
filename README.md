@@ -8,8 +8,8 @@
         <li>
           <a href="#what-you-get">What you get</a>
           <ul>
-            <li><a href="https://github.com/rufio-tf2/rufio-config/blob/master/cfg/actions.cfg">Additional actions</a></li>
-            <li><a href="https://github.com/rufio-tf2/rufio-config/blob/master/cfg/settings.cfg">Improved settings</a></li>
+            <li><a href="https://github.com/rufio-tf2/rufio-config/blob/master/user/actions.cfg">Additional actions</a></li>
+            <li><a href="https://github.com/rufio-tf2/rufio-config/blob/master/user/settings.cfg">Improved settings</a></li>
             <li><a href="#shift-modifiers-arrow_upper_right">Shift-modifiers</a></li>
             <li><a href="#weapon-slot-settings-arrow_upper_right">Weapon-slot settings</a></li>
             <li><a href="#quick-loadout-switch-arrow_upper_right">Quick loadout switch</a></li>
@@ -32,9 +32,9 @@
 
 This is not an [FPS config](https://github.com/mastercoms/mastercomfig). This config is a framework that provides missing features to TF2:
 
-- [Additional actions](https://github.com/rufio-tf2/rufio-config/blob/master/cfg/actions.cfg) (e.g. `alertSniper`, `alertSpyOnEngi`)
-- [Improved settings](https://github.com/rufio-tf2/rufio-config/blob/master/cfg/settings.cfg) (e.g. interp, fov, and crosshair)
-- [Modules](./cfg/modules/README.md):
+- [Additional actions](https://github.com/rufio-tf2/rufio-config/blob/master/user/actions.cfg) (e.g. `alertSniper`, `alertSpyOnEngi`)
+- [Improved settings](https://github.com/rufio-tf2/rufio-config/blob/master/user/settings.cfg) (e.g. interp, fov, and crosshair)
+- [Modules](./user/modules/README.md):
   - _[Shift-modifiers](#shift-modifiers-arrow_upper_right):_ <kbd>SHIFT</kbd>+<kbd>MOUSE1</kbd>
   - _[Weapon-slot settings](#weapon-slot-settings-arrow_upper_right)_
   - _[Quick loadout switch](#quick-loadout-switch-arrow_upper_right):_ <kbd>&larr;</kbd><kbd>&uarr;</kbd><kbd>&rarr;</kbd><kbd>&darr;</kbd>
@@ -67,7 +67,7 @@ Here are some class-specific overrides I've used:
       <kbd>MOUSE3</kbd> -- <em>Destroy sentry and build</em>
     </li>
     <li>
-      <a href="https://github.com/rufio-tf2/rufio-config/blob/master/cfg/classes/engineer/key_modifiers.cfg">
+      <a href="https://github.com/rufio-tf2/rufio-config/blob/master/user/classes/engineer/key_modifiers.cfg">
         <code>key_modifiers.cfg</code>
       </a>
     </li>
@@ -81,7 +81,7 @@ Here are some class-specific overrides I've used:
       <kbd>MOUSE4</kbd> -- <em>Detonator jump</em>
     </li>
     <li>
-      <a href="https://github.com/rufio-tf2/rufio-config/blob/master/cfg/classes/pyro/key_modifiers.cfg">
+      <a href="https://github.com/rufio-tf2/rufio-config/blob/master/user/classes/pyro/key_modifiers.cfg">
         <code>key_modifiers.cfg</code>
       </a>
     </li>
@@ -99,7 +99,7 @@ Here are some class-specific overrides I've used:
       I don't use this anymore, so I've commented this out (by adding two slashes). If you want to use it, remove the `//` from Line 4 and Line 7.
     </li>
     <li>
-      <a href="https://github.com/rufio-tf2/rufio-config/blob/master/cfg/classes/soldier/key_modifiers.cfg">
+      <a href="https://github.com/rufio-tf2/rufio-config/blob/master/user/classes/soldier/key_modifiers.cfg">
         <code>key_modifiers.cfg</code>
       </a>
     </li>
@@ -113,7 +113,7 @@ Here are some class-specific overrides I've used:
       <kbd>MOUSE4</kbd> -- <em>Last diguise</em>
     </li>
     <li>
-      <a href="https://github.com/rufio-tf2/rufio-config/blob/master/cfg/classes/spy/key_modifiers.cfg">
+      <a href="https://github.com/rufio-tf2/rufio-config/blob/master/user/classes/spy/key_modifiers.cfg">
         <code>key_modifiers.cfg</code>
       </a>
     </li>
@@ -137,7 +137,7 @@ For example, I've previously used these viewmodel slot settings for different cl
 <details>
   <summary>Engineer</summary>
   <li>
-    <code>tf/custom/skeleton-config/cfg/classes/engineer/weapon_slot_settings.cfg</code>
+    <code>tf/custom/skeleton-config/user/classes/engineer/weapon_slot_settings.cfg</code>
   </li>
   <table>
     <tr>
@@ -162,7 +162,7 @@ For example, I've previously used these viewmodel slot settings for different cl
 <details>
   <summary>Scout</summary>
   <li>
-    <code>tf/custom/skeleton-config/cfg/classes/scout/weapon_slot_settings.cfg</code>
+    <code>tf/custom/skeleton-config/user/classes/scout/weapon_slot_settings.cfg</code>
   </li>
   <table>
     <tr>
@@ -183,7 +183,7 @@ For example, I've previously used these viewmodel slot settings for different cl
 <details>
   <summary>Soldier</summary>
   <li>
-    <code>tf/custom/skeleton-config/cfg/classes/soldier/weapon_slot_settings.cfg</code>
+    <code>tf/custom/skeleton-config/user/classes/soldier/weapon_slot_settings.cfg</code>
   </li>
   <table>
     <tr>
@@ -204,7 +204,7 @@ For example, I've previously used these viewmodel slot settings for different cl
 <details>
   <summary>Spy</summary>
   <li>
-    <code>tf/custom/skeleton-config/cfg/classes/spy/weapon_slot_settings.cfg</code>
+    <code>tf/custom/skeleton-config/user/classes/spy/weapon_slot_settings.cfg</code>
   </li>
   <table>
     <tr>
